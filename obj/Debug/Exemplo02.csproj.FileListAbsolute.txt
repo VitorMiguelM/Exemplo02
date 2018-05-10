@@ -1,0 +1,9 @@
+C:\Users\105013\Documents\GitHub\Exemplo02\Exemplo02\bin\Debug\Exemplo02.exe.config
+C:\Users\105013\Documents\GitHub\Exemplo02\Exemplo02\bin\Debug\Exemplo02.exe
+C:\Users\105013\Documents\GitHub\Exemplo02\Exemplo02\bin\Debug\Exemplo02.pdb
+C:\Users\105013\Documents\GitHub\Exemplo02\Exemplo02\obj\Debug\Exemplo02.csprojResolveAssemblyReference.cache
+C:\Users\105013\Documents\GitHub\Exemplo02\Exemplo02\obj\Debug\Exemplo02.Exemplo02.resources
+C:\Users\105013\Documents\GitHub\Exemplo02\Exemplo02\obj\Debug\Exemplo02.Properties.Resources.resources
+C:\Users\105013\Documents\GitHub\Exemplo02\Exemplo02\obj\Debug\Exemplo02.csproj.GenerateResource.Cache
+C:\Users\105013\Documents\GitHub\Exemplo02\Exemplo02\obj\Debug\Exemplo02.exe
+C:\Users\105013\Documents\GitHub\Exemplo02\Exemplo02\obj\Debug\Exemplo02.pdb
