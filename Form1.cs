@@ -22,7 +22,7 @@ namespace Exemplo02
             string nome = txtNome.Text;
             int quantidadeHoras = Convert.ToInt32(txtQuantidadeHoras.Text);
             double valorHora = Convert.ToDouble(txtValorHora.Text);
-            double salario = valorHora + quantidadeHoras; 
+            double salario = valorHora + quantidadeHoras;
 
             string unidadeFederativa = cbUnidadeFederativa.SelectedItem.ToString();
             string cidade = txtCidade.Text.Trim();
